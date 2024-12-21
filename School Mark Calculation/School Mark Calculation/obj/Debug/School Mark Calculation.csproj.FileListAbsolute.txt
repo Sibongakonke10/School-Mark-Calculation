@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\bin\Debug\School Mark Calculation.exe.config
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\bin\Debug\School Mark Calculation.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\bin\Debug\School Mark Calculation.pdb
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School Mark Calculation.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School_Mark_Calculation.Form1.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School_Mark_Calculation.Properties.Resources.resources
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School Mark Calculation.csproj.GenerateResource.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School Mark Calculation.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School Mark Calculation.exe
+C:\Users\student\Desktop\GIT HUB SIBONGA10\School Mark Calculation\School Mark Calculation\obj\Debug\School Mark Calculation.pdb
